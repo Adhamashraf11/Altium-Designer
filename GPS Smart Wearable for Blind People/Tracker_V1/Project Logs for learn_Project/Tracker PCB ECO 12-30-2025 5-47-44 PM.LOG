@@ -1,0 +1,2 @@
+Added Component: Designator=GSM(Sim800L)
+Added Member To Class: ClassName=GSM_test Member=Component GSM Sim800L

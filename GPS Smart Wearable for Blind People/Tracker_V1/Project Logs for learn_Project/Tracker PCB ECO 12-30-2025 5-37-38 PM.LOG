@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=R300 Old Footprint=FP-AF0402-IPC_A New Footprint=FP-AF0402-IPC_A
+Change Component Footprint: Designator=R302 Old Footprint=FP-AF0402-IPC_A New Footprint=FP-AF0402-IPC_A
+Change Component Footprint: Designator=C500 Old Footprint=FP-C0603C-CF-IPC_B New Footprint=FP-C0603C-CF-IPC_B
+Change Component Footprint: Designator=C501 Old Footprint=FP-C0603C-CF-IPC_B New Footprint=FP-C0603C-CF-IPC_B
+Change Component Footprint: Designator=Y500 Old Footprint=NDK-NX3225GD-8MHZ-STD-CRA-3_V New Footprint=NDK-NX3225GD-8MHZ-STD-CRA-3_V
+Added Component: Designator=GSM(Sim800L)
+Added Class: Name=GSM_test

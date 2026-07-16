@@ -1,0 +1,15 @@
+Added Component: Designator=+3.2V(PAD_RND_1MM)
+Added Component: Designator=+3.3V(PAD_RND_1MM)
+Added Component: Designator=+3.4V(PAD_RND_1MM)
+Added Component: Designator=+3.8V(PAD_RND_1MM)
+Added Component: Designator=+5V(PAD_RND_1MM)
+Added Pin To Net: NetName=VGPS Pin=+3.2V-1
+Added Pin To Net: NetName=VDD Pin=+3.3V-1
+Added Pin To Net: NetName=PWR_SYS Pin=+3.4V-1
+Added Pin To Net: NetName=V_GSM Pin=+3.8V-1
+Added Pin To Net: NetName=VBUS Pin=+5V-1
+Added Member To Class: ClassName=Power Member=Component +3.2V TP_NOBOM
+Added Member To Class: ClassName=Power Member=Component +3.3V TP_NOBOM
+Added Member To Class: ClassName=Power Member=Component +3.4V TP_NOBOM
+Added Member To Class: ClassName=Power Member=Component +3.8V TP_NOBOM
+Added Member To Class: ClassName=Power Member=Component +5V TP_NOBOM

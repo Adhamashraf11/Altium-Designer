@@ -1,0 +1,281 @@
+Added Component: Designator=C300(FP-0402-L_1_0_0_05-W_0_5-IPC_B)
+Added Component: Designator=C301(FP-CC0603-DA-MFG)
+Added Component: Designator=C302(FP-0402-L_1_0_0_05-W_0_5-IPC_B)
+Added Component: Designator=C303(FP-CC0603-DA-MFG)
+Added Component: Designator=C500(C0402 - duplicate)
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET - Electronic Component"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0603C104K8RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C00062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-1095-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C501(C0402 - duplicate)
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET - Electronic Component"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0603C104K8RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C00062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-1095-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C502(C0402 - duplicate)
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET - Electronic Component"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0603C104K8RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C00062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-1095-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C503(FP-0402-L_1_0_0_05-W_0_5-IPC_B)
+Added Component: Designator=C504(FP-0402-L_1_0_0_05-W_0_5-IPC_B)
+Added Component: Designator=C505(FP-0402-L_1_0_0_05-W_0_5-IPC_B)
+Added Component: Designator=C506(FP-CC0603-DA-MFG)
+Added Component: Designator=C507(FP-0402-L_1_0_0_05-W_0_5-IPC_B)
+Added Component: Designator=C508(FP-0603-L_1_6_0_1-W_0_8_0-IPC_B)
+Added Component: Designator=FB500(FP-BLM18-0_15-t0_8-MFG)
+Added Component: Designator=J500(TC2030-NL-FP)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tag-Connect"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TC2030-NL-FP"; VariantName = "[No Variations]"
+Added Component: Designator=R300(FP-AF0402-MFG)
+Added Component: Designator=R301(FP-AC0402-MFG)
+Added Component: Designator=R302(FP-AF0402-MFG)
+Added Component: Designator=R303(FP-AC0402-MFG)
+Added Component: Designator=R500(R0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0715RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R00007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-15.0HRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2M37"; VariantName = "[No Variations]"
+Added Component: Designator=R501(R0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0715RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R00007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-15.0HRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2M37"; VariantName = "[No Variations]"
+Added Component: Designator=S500(SW_B3U-1000P)
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.components.omron.com/components/web/PDFLIB.nsf/0/2DD3893C7DD33E9E862572900079E9D6/$file/B3U_1110.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentRating_mA"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2015-03-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Omron Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Top Actuated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3x1.6x2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "B3U-1000P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PositionCount"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SW1020CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "653-B3U-1000P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "1333652"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SwitchFunction"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolCreator"; Value = "a0412235"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "2012-10-29"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC_V"; Value = "12"; VariantName = "[No Variations]"
+Added Component: Designator=S501(SW_B3U-1000P)
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.components.omron.com/components/web/PDFLIB.nsf/0/2DD3893C7DD33E9E862572900079E9D6/$file/B3U_1110.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentRating_mA"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2015-03-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Omron Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Top Actuated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3x1.6x2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "B3U-1000P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PositionCount"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SW1020CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "653-B3U-1000P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "1333652"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SwitchFunction"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolCreator"; Value = "a0412235"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "2012-10-29"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC_V"; Value = "12"; VariantName = "[No Variations]"
+Added Component: Designator=U300(XCVR_L96-M33)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Quectel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "L96-M33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/L96-M33/Quectel/view-part/2780781/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U500(FP-UFQFPN32-A0B8-MFG)
+Added Component: Designator=Y500(FP-NX3215SA-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "70kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "32.768kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Tolerance"; Value = "0.002%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "889µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2004mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "6pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "22488149"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.4986mm"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C300-1
+Add Pin To Net: Unknown Pin: Pin C300-2
+Add Pin To Net: Unknown Pin: Pin C301-1
+Add Pin To Net: Unknown Pin: Pin C301-2
+Add Pin To Net: Unknown Pin: Pin C302-1
+Add Pin To Net: Unknown Pin: Pin C302-2
+Add Pin To Net: Unknown Pin: Pin C303-1
+Add Pin To Net: Unknown Pin: Pin C303-2
+Added Pin To Net: NetName=MCU_OSC_IN Pin=C500-1
+Added Pin To Net: NetName=MCU_SWO Pin=C500-2
+Added Pin To Net: NetName=MCU_OSC_OUT Pin=C501-1
+Added Pin To Net: NetName=MCU_SWO Pin=C501-2
+Added Pin To Net: NetName=MCU_NRST Pin=C502-1
+Added Pin To Net: NetName=MCU_SWO Pin=C502-2
+Add Pin To Net: Unknown Pin: Pin C503-1
+Add Pin To Net: Unknown Pin: Pin C503-2
+Add Pin To Net: Unknown Pin: Pin C504-1
+Add Pin To Net: Unknown Pin: Pin C504-2
+Add Pin To Net: Unknown Pin: Pin C505-1
+Add Pin To Net: Unknown Pin: Pin C505-2
+Add Pin To Net: Unknown Pin: Pin C506-1
+Add Pin To Net: Unknown Pin: Pin C506-2
+Add Pin To Net: Unknown Pin: Pin C507-1
+Add Pin To Net: Unknown Pin: Pin C507-2
+Add Pin To Net: Unknown Pin: Pin C508-1
+Add Pin To Net: Unknown Pin: Pin C508-2
+Add Pin To Net: Unknown Pin: Pin FB500-1
+Add Pin To Net: Unknown Pin: Pin FB500-2
+Added Pin To Net: NetName=+3V3 Pin=J500-1
+Added Pin To Net: NetName=MCU_SWO Pin=J500-5
+Added Pin To Net: NetName=MCU_SWO Pin=J500-6
+Add Pin To Net: Unknown Pin: Pin R300-1
+Add Pin To Net: Unknown Pin: Pin R300-2
+Add Pin To Net: Unknown Pin: Pin R301-1
+Add Pin To Net: Unknown Pin: Pin R301-2
+Add Pin To Net: Unknown Pin: Pin R302-1
+Add Pin To Net: Unknown Pin: Pin R302-2
+Add Pin To Net: Unknown Pin: Pin R303-1
+Add Pin To Net: Unknown Pin: Pin R303-2
+Added Pin To Net: NetName=+3V3 Pin=R500-1
+Added Pin To Net: NetName=MCU_SWO Pin=R501-1
+Added Pin To Net: NetName=MCU_BOOT0 Pin=R501-2
+Added Pin To Net: NetName=MCU_BOOT0 Pin=S500-1
+Added Pin To Net: NetName=MCU_SWO Pin=S501-1
+Added Pin To Net: NetName=MCU_NRST Pin=S501-2
+Added Pin To Net: NetName=GPS_FIX Pin=U300-2
+Added Pin To Net: NetName=MCU_SWO Pin=U300-4
+Added Pin To Net: NetName=MCU_SWO Pin=U300-5
+Added Pin To Net: NetName=GPS_INT Pin=U300-7
+Added Pin To Net: NetName=NetR300_1 Pin=U300-8
+Added Pin To Net: NetName=VGPS Pin=U300-9
+Added Pin To Net: NetName=MCU_SWO Pin=U300-10
+Added Pin To Net: NetName=MCU_SWO Pin=U300-11
+Added Pin To Net: NetName=MCU_SWO Pin=U300-12
+Added Pin To Net: NetName=MCU_SWO Pin=U300-13
+Added Pin To Net: NetName=MCU_SWO Pin=U300-14
+Added Pin To Net: NetName=MCU_SWO Pin=U300-15
+Added Pin To Net: NetName=NetR302_2 Pin=U300-16
+Added Pin To Net: NetName=NetR302_1 Pin=U300-17
+Added Pin To Net: NetName=MCU_SWO Pin=U300-18
+Added Pin To Net: NetName=MCU_SWO Pin=U300-19
+Added Pin To Net: NetName=GPS_JAM Pin=U300-20
+Added Pin To Net: NetName=MCU_SWO Pin=U300-21
+Added Pin To Net: NetName=MCU_SWO Pin=U300-22
+Added Pin To Net: NetName=GPS_RST Pin=U300-23
+Added Pin To Net: NetName=GPS_GEO Pin=U300-24
+Added Pin To Net: NetName=NetR303_2 Pin=U300-25
+Added Pin To Net: NetName=NetR301_2 Pin=U300-26
+Added Pin To Net: NetName=MCU_SWO Pin=U300-27
+Added Pin To Net: NetName=GPS_FON Pin=U300-28
+Added Pin To Net: NetName=GPS_PPS Pin=U300-29
+Added Pin To Net: NetName=MCU_SWO Pin=U300-31
+Add Pin To Net: Unknown Pin: Pin U500-1
+Add Pin To Net: Unknown Pin: Pin U500-2
+Add Pin To Net: Unknown Pin: Pin U500-3
+Add Pin To Net: Unknown Pin: Pin U500-4
+Add Pin To Net: Unknown Pin: Pin U500-5
+Add Pin To Net: Unknown Pin: Pin U500-16
+Add Pin To Net: Unknown Pin: Pin U500-17
+Add Pin To Net: Unknown Pin: Pin U500-19
+Add Pin To Net: Unknown Pin: Pin U500-20
+Add Pin To Net: Unknown Pin: Pin U500-21
+Add Pin To Net: Unknown Pin: Pin U500-22
+Add Pin To Net: Unknown Pin: Pin U500-23
+Add Pin To Net: Unknown Pin: Pin U500-24
+Add Pin To Net: Unknown Pin: Pin U500-25
+Add Pin To Net: Unknown Pin: Pin U500-30
+Add Pin To Net: Unknown Pin: Pin U500-31
+Add Pin To Net: Unknown Pin: Pin U500-32
+Add Pin To Net: Unknown Pin: Pin U500-33
+Added Pin To Net: NetName=MCU_OSC_IN Pin=Y500-1
+Added Pin To Net: NetName=MCU_OSC_OUT Pin=Y500-2
+Added Pin To Net: NetName=NetR500_2 Pin=R500-2
+Added Pin To Net: NetName=NetR500_2 Pin=S500-2
+Added Net: Name=NetR500_2
+Add Class Member: Failed to add class member : Component C300 0.1uF
+Add Class Member: Failed to add class member : Component C301 4.7 uF
+Add Class Member: Failed to add class member : Component C302 0.1uF
+Add Class Member: Failed to add class member : Component C303 10 uF
+Added Member To Class: ClassName=MCU_test Member=Component C500 CAP
+Added Member To Class: ClassName=MCU_test Member=Component C501 CAP
+Added Member To Class: ClassName=MCU_test Member=Component C502 CAP
+Add Class Member: Failed to add class member : Component C503 0.1uF
+Add Class Member: Failed to add class member : Component C504 0.1uF
+Add Class Member: Failed to add class member : Component C505 0.1uF
+Add Class Member: Failed to add class member : Component C506 4.7 uF
+Add Class Member: Failed to add class member : Component C507 0.1uF
+Add Class Member: Failed to add class member : Component C508 1uF
+Add Class Member: Failed to add class member : Component FB500 330R
+Added Member To Class: ClassName=MCU_test Member=Component J500 SWD Dubugging Interface
+Add Class Member: Failed to add class member : Component R300 0O
+Add Class Member: Failed to add class member : Component R301 100O
+Add Class Member: Failed to add class member : Component R302 0O
+Add Class Member: Failed to add class member : Component R303 100O
+Added Member To Class: ClassName=MCU_test Member=Component R500 1K
+Added Member To Class: ClassName=MCU_test Member=Component R501 10K
+Added Member To Class: ClassName=MCU_test Member=Component S500 BOOT
+Added Member To Class: ClassName=MCU_test Member=Component S501 RST
+Added Member To Class: ClassName=GPS_test Member=Component U300 L96-M33
+Add Class Member: Failed to add class member : Component U500 STM32L071KBU6
+Added Member To Class: ClassName=MCU_test Member=Component Y500 NX3215SA-32.768K-STD-MUA-14

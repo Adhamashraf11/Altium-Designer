@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=NetR?_2 Pin=U-26
+Add component: Footprint Not Found CAP 0402/1005
+Add component: Footprint Not Found CAP 0402/1005
+Add component: Footprint Not Found CAP 0402/1005
+Add component: Footprint Not Found CAP 0402/1005
+Add component: Footprint Not Found RES 0402/1005
+Add component: Footprint Not Found RES 0402/1005
+Add component: Footprint Not Found RES 0402/1005
+Add component: Footprint Not Found RES 0402/1005
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U-25
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Class Member: Failed to add class member : Component C? 0.10uF
+Add Class Member: Failed to add class member : Component C? 4.7uF
+Add Class Member: Failed to add class member : Component C? 4.7uF
+Add Class Member: Failed to add class member : Component C? 0.10uF
+Add Class Member: Failed to add class member : Component R? 47
+Add Class Member: Failed to add class member : Component R? 47
+Add Class Member: Failed to add class member : Component R? 0.0
+Add Class Member: Failed to add class member : Component R? 0.0

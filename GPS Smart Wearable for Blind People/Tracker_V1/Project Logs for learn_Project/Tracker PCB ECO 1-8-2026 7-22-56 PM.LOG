@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=R211-1
+Removed Member From Class: ClassName=Power_test Member=R211
+Change Net Name : Old Net Name=NetL200_1 New Net Name=SW_LDO
+Added Pin To Net: NetName=NetRT200_1 Pin=RT200-1
+Added Pin To Net: NetName=NetRT200_1 Pin=U202-1
+Added Net: Name=NetRT200_1

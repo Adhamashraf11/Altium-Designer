@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GPS_RXD Pin=GSM400-4
+Removed Pin From Net: NetName=GPS_TXD Pin=GSM400-5
+Removed Pin From Net: NetName=GPS_TXD Pin=U500-8
+Removed Pin From Net: NetName=GPS_RXD Pin=U500-9
+Added Pin To Net: NetName=GSM_RXD Pin=GSM400-4
+Added Pin To Net: NetName=GSM_RXD Pin=U500-9
+Added Net: Name=GSM_RXD
+Added Pin To Net: NetName=GSM_TXD Pin=GSM400-5
+Added Pin To Net: NetName=GSM_TXD Pin=U500-8
+Added Net: Name=GSM_TXD

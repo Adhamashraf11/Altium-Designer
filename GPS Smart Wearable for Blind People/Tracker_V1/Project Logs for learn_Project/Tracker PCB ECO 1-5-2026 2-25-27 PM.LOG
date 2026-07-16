@@ -1,0 +1,129 @@
+Added Component: Designator=J?(USB4105-GF-A-060)
+Add component (AddParameter): Name = "Distributor Link"; Value = "https://eu.mouser.com/ProductDetail/GCT/USB4105-GF-A-060?qs=QNEnbhJQKvY2mocwNJzgfA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "USB4105-GF-A-060"; VariantName = "[No Variations]"
+Added Component: Designator=R?(FP-NTCG10-MFG)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(FP-RGT0016C-IPC_B)
+Add component (AddParameter): Name = "Battery Chemistry"; Value = "LITHIUM-ION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Battery Pack Voltage"; Value = "4.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "VQFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fault Protection"; Value = "Over Voltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Charge Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "10.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "4.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Cells"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "4.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000808oz"; VariantName = "[No Variations]"
+Added Component: Designator=U?(DSS0012A_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/tps62740.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds336b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLVSB02B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "12-Pin Plastic Small Outline, Body 3 x 2 mm, Pitch 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DSS0012A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4209244/C, 07/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TPS62740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VIN Max"; Value = "5.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VIN Min"; Value = "2.2 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VOUT Max"; Value = "3.3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VOUT Min"; Value = "1.8 V"; VariantName = "[No Variations]"
+Added Component: Designator=U?(QFN-3x4_MP3429_MNP)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Monolithic Power Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MP3429GL-Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U?(FP-RNM0015A-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "VQFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Voltage"; Value = "9V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Output Voltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Adjustable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "50uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Frequency"; Value = "2.4MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectifier"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "Buck-Boost"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU_SWO Pin=J?-A1B12
+Added Pin To Net: NetName=MCU_SWO Pin=J?-B1A12
+Added Pin To Net: NetName=MCU_SWO Pin=J?-SH
+Added Pin To Net: NetName=MCU_SWO Pin=J?-SH
+Added Pin To Net: NetName=MCU_SWO Pin=J?-SH
+Added Pin To Net: NetName=MCU_SWO Pin=J?-SH
+Added Pin To Net: NetName=MCU_SWO Pin=R?-1
+Added Pin To Net: NetName=MCU_SWO Pin=R?-1
+Added Pin To Net: NetName=USB_CC1 Pin=J?-A5
+Added Pin To Net: NetName=USB_CC1 Pin=R?-2
+Added Net: Name=USB_CC1
+Added Pin To Net: NetName=USB_CC2 Pin=J?-B5
+Added Pin To Net: NetName=USB_CC2 Pin=R?-2
+Added Net: Name=USB_CC2
+Added Pin To Net: NetName=USB_D_N Pin=J?-A7
+Added Pin To Net: NetName=USB_D_N Pin=J?-B7
+Added Net: Name=USB_D_N
+Added Pin To Net: NetName=USB_D_P Pin=J?-A6
+Added Pin To Net: NetName=USB_D_P Pin=J?-B6
+Added Net: Name=USB_D_P
+Added Pin To Net: NetName=VBUS Pin=J?-A4B9
+Added Pin To Net: NetName=VBUS Pin=J?-B4A9
+Added Net: Name=VBUS
+Added Differential Pair: Name=USB_D
+Added Member To Class: ClassName=Power_test Member=Component J? USB4105-GF-A-060
+Added Member To Class: ClassName=Power_test Member=Component R? NTCG103JF103FT1S
+Added Member To Class: ClassName=Power_test Member=Component R? 5K1
+Added Member To Class: ClassName=Power_test Member=Component R? 5K1
+Added Member To Class: ClassName=Power_test Member=Component U? TPS62740DSST
+Added Member To Class: ClassName=Power_test Member=Component U? TPS63070RNMR
+Added Member To Class: ClassName=Power_test Member=Component U? MP3429GL-Z
+Added Rule: Name=Schematic Supply Nets_5
+Added Class: Name=USB

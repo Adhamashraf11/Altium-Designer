@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GSM_TXD Pin=U500-8
+Change Net Name : Old Net Name=VDD New Net Name=+3.3V
+Added Pin To Net: NetName=S_TXD Pin=U500-8
+Added Net: Name=S_TXD
+Added Rule: Name=Schematic Supply Nets_1

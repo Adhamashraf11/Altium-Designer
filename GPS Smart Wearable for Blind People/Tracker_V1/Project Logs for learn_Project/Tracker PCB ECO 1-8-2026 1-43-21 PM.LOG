@@ -1,0 +1,16 @@
+Added Component: Designator=D201(ONSC-SOD-123FL-2-498_V)
+Added Component: Designator=L200(FP-LPS3314-MFG)
+Added Component: Designator=L201(FP-XFL4020-MFG)
+Added Component: Designator=R211(FP-NTCG10-MFG)
+Add Pin To Net: Unknown Pin: Pin D201-1
+Add Pin To Net: Unknown Pin: Pin D201-2
+Add Pin To Net: Unknown Pin: Pin L200-1
+Add Pin To Net: Unknown Pin: Pin L200-2
+Add Pin To Net: Unknown Pin: Pin L201-1
+Add Pin To Net: Unknown Pin: Pin L201-2
+Add Pin To Net: Unknown Pin: Pin R211-1
+Add Pin To Net: Unknown Pin: Pin R211-2
+Add Class Member: Failed to add class member : Component D201 SZSMF6.0AT1G
+Add Class Member: Failed to add class member : Component L200 2.2uf
+Add Class Member: Failed to add class member : Component L201 1.5uF
+Add Class Member: Failed to add class member : Component R211 10KNTC

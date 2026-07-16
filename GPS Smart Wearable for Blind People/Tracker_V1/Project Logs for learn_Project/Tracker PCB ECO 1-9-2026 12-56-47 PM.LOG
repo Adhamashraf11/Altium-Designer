@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=GSM_NET Pin=GSM400-1
+Removed Pin From Net: NetName=GSM_RST Pin=GSM400-3
+Removed Pin From Net: NetName=GSM_RING Pin=GSM400-7
+Removed Pin From Net: NetName=DTR Pin=GSM400-8
+Removed Pin From Net: NetName=GPS_FIX Pin=U300-2
+Removed Pin From Net: NetName=GPS_INT Pin=U300-7
+Removed Pin From Net: NetName=GPS_JAM Pin=U300-20
+Removed Pin From Net: NetName=GPS_RST Pin=U300-23
+Removed Pin From Net: NetName=GPS_GEO Pin=U300-24
+Removed Pin From Net: NetName=GPS_FON Pin=U300-28
+Removed Pin From Net: NetName=GPS_PPS Pin=U300-29
+Removed Pin From Net: NetName=USB_D_N Pin=U500-21
+Removed Pin From Net: NetName=USB_D_P Pin=U500-22
+Removed Pin From Net: NetName=NetU200_4 Pin=U500-29
+Change Net Name : Old Net Name=NetBT200_1 New Net Name=V_BAT
+Add Net: Net with name "GPS_FIX" already exists
+Add Net: Net with name "GPS_FON" already exists
+Add Net: Net with name "GPS_GEO" already exists
+Add Net: Net with name "GPS_INT" already exists
+Add Net: Net with name "GPS_JAM" already exists
+Add Net: Net with name "GPS_PPS" already exists
+Add Net: Net with name "GPS_RST" already exists
+Added Pin To Net: NetName=GSM_DTR Pin=GSM400-8
+Added Net: Name=GSM_DTR
+Add Net: Net with name "GSM_NET" already exists
+Add Net: Net with name "GSM_RING" already exists
+Add Net: Net with name "GSM_RST" already exists
+Added Pin To Net: NetName=NetU500_21 Pin=U500-21
+Added Net: Name=NetU500_21
+Added Pin To Net: NetName=NetU500_22 Pin=U500-22
+Added Net: Name=NetU500_22
+Added Pin To Net: NetName=NetU500_29 Pin=U500-29
+Added Net: Name=NetU500_29
+Change Class Name : Old Net Name=GPS_test New Net Name=GPS
+Change Class Name : Old Net Name=GSM_test New Net Name=GSM
+Change Class Name : Old Net Name=MCU_test New Net Name=MCU
+Change Class Name : Old Net Name=Power_test New Net Name=Power

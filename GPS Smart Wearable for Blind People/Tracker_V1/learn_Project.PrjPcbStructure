@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Tracker_test.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Tracker_test.SchDoc|Designator=GPS|SchDesignator=GPS|FileName=GPS_test.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=GPS_test.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Tracker_test.SchDoc|Designator=GSM|SchDesignator=GSM|FileName=GSM_test.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=GSM_test.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Tracker_test.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=MCU_test.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=MCU_test.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Tracker_test.SchDoc|Designator=Power|SchDesignator=Power|FileName=Power_test.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Power_test.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

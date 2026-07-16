@@ -1,0 +1,3 @@
+Added Component: Designator=GND(PAD_SQ_2MM)
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Member To Class: ClassName=Power Member=Component GND Pad

@@ -1,0 +1,133 @@
+Added Component: Designator=C300(FP-0402-L_1_0_0_05-W_0_5-IPC_B)
+Added Component: Designator=C301(FP-CC0603-DA-MFG)
+Added Component: Designator=C302(FP-0402-L_1_0_0_05-W_0_5-IPC_B)
+Added Component: Designator=C303(FP-CC0603-DA-MFG)
+Added Component: Designator=C?(FP-CL10-IPC_C)
+Added Component: Designator=C?(FP-CC0603-DA-MFG)
+Added Component: Designator=C?(FP-0402-L_1_0_0_05-W_0_5-IPC_B)
+Added Component: Designator=C?(FP-0603-L_1_6_0_1-W_0_8_0-IPC_B)
+Added Component: Designator=C?(FP-0603-L_1_6_0_1-W_0_8_0-IPC_A)
+Added Component: Designator=C?(FP-CC0603-DA-MFG)
+Added Component: Designator=C?(FP-0402-L_1_0_0_05-W_0_5-IPC_B)
+Added Component: Designator=C?(FP-0402-L_1_0_0_05-W_0_5-IPC_B)
+Added Component: Designator=C?(FP-0603-L_1_6_0_1-W_0_8_0-IPC_B)
+Added Component: Designator=C?(FP-0402-L_1_0_0_05-W_0_5-IPC_B)
+Added Component: Designator=C?(FP-0402-L_1_0_0_05-W_0_5-IPC_B)
+Added Component: Designator=FB?(FP-BLM18-0_15-t0_8-MFG)
+Added Component: Designator=J?(TC2030-NL-FP)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tag-Connect"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TC2030-NL-FP"; VariantName = "[No Variations]"
+Added Component: Designator=R300(FP-AF0402-MFG)
+Added Component: Designator=R301(FP-AC0402-MFG)
+Added Component: Designator=R302(FP-AF0402-MFG)
+Added Component: Designator=R303(FP-AC0402-MFG)
+Added Component: Designator=U300(XCVR_L96-M33)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Quectel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "L96-M33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/L96-M33/Quectel/view-part/2780781/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U500(FP-UFQFPN32-A0B8-MFG)
+Add Pin To Net: Unknown Pin: Pin C300-1
+Add Pin To Net: Unknown Pin: Pin C300-2
+Add Pin To Net: Unknown Pin: Pin C301-1
+Add Pin To Net: Unknown Pin: Pin C301-2
+Add Pin To Net: Unknown Pin: Pin C302-1
+Add Pin To Net: Unknown Pin: Pin C302-2
+Add Pin To Net: Unknown Pin: Pin C303-1
+Add Pin To Net: Unknown Pin: Pin C303-2
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin FB?-1
+Add Pin To Net: Unknown Pin: Pin FB?-2
+Added Pin To Net: NetName=+3V3 Pin=J?-1
+Added Pin To Net: NetName=MCU_SWO Pin=J?-5
+Added Pin To Net: NetName=MCU_SWO Pin=J?-6
+Add Pin To Net: Unknown Pin: Pin R300-1
+Add Pin To Net: Unknown Pin: Pin R300-2
+Add Pin To Net: Unknown Pin: Pin R301-1
+Add Pin To Net: Unknown Pin: Pin R301-2
+Add Pin To Net: Unknown Pin: Pin R302-1
+Add Pin To Net: Unknown Pin: Pin R302-2
+Add Pin To Net: Unknown Pin: Pin R303-1
+Add Pin To Net: Unknown Pin: Pin R303-2
+Added Pin To Net: NetName=GPS_FIX Pin=U300-2
+Added Pin To Net: NetName=MCU_SWO Pin=U300-4
+Added Pin To Net: NetName=MCU_SWO Pin=U300-5
+Added Pin To Net: NetName=GPS_INT Pin=U300-7
+Added Pin To Net: NetName=NetR300_1 Pin=U300-8
+Added Pin To Net: NetName=VGPS Pin=U300-9
+Added Pin To Net: NetName=MCU_SWO Pin=U300-10
+Added Pin To Net: NetName=MCU_SWO Pin=U300-11
+Added Pin To Net: NetName=MCU_SWO Pin=U300-12
+Added Pin To Net: NetName=MCU_SWO Pin=U300-13
+Added Pin To Net: NetName=MCU_SWO Pin=U300-14
+Added Pin To Net: NetName=MCU_SWO Pin=U300-15
+Added Pin To Net: NetName=NetR302_2 Pin=U300-16
+Added Pin To Net: NetName=NetR302_1 Pin=U300-17
+Added Pin To Net: NetName=MCU_SWO Pin=U300-18
+Added Pin To Net: NetName=MCU_SWO Pin=U300-19
+Added Pin To Net: NetName=GPS_JAM Pin=U300-20
+Added Pin To Net: NetName=MCU_SWO Pin=U300-21
+Added Pin To Net: NetName=MCU_SWO Pin=U300-22
+Added Pin To Net: NetName=GPS_RST Pin=U300-23
+Added Pin To Net: NetName=GPS_GEO Pin=U300-24
+Added Pin To Net: NetName=NetR303_2 Pin=U300-25
+Added Pin To Net: NetName=NetR301_2 Pin=U300-26
+Added Pin To Net: NetName=MCU_SWO Pin=U300-27
+Added Pin To Net: NetName=GPS_FON Pin=U300-28
+Added Pin To Net: NetName=GPS_PPS Pin=U300-29
+Added Pin To Net: NetName=MCU_SWO Pin=U300-31
+Add Pin To Net: Unknown Pin: Pin U500-1
+Add Pin To Net: Unknown Pin: Pin U500-2
+Add Pin To Net: Unknown Pin: Pin U500-3
+Add Pin To Net: Unknown Pin: Pin U500-4
+Add Pin To Net: Unknown Pin: Pin U500-5
+Add Pin To Net: Unknown Pin: Pin U500-16
+Add Pin To Net: Unknown Pin: Pin U500-17
+Add Pin To Net: Unknown Pin: Pin U500-19
+Add Pin To Net: Unknown Pin: Pin U500-20
+Add Pin To Net: Unknown Pin: Pin U500-21
+Add Pin To Net: Unknown Pin: Pin U500-22
+Add Pin To Net: Unknown Pin: Pin U500-23
+Add Pin To Net: Unknown Pin: Pin U500-24
+Add Pin To Net: Unknown Pin: Pin U500-25
+Add Pin To Net: Unknown Pin: Pin U500-30
+Add Pin To Net: Unknown Pin: Pin U500-31
+Add Pin To Net: Unknown Pin: Pin U500-32
+Add Pin To Net: Unknown Pin: Pin U500-33
+Add Class Member: Failed to add class member : Component C300 0.1uF
+Add Class Member: Failed to add class member : Component C301 4.7 uF
+Add Class Member: Failed to add class member : Component C302 0.1uF
+Add Class Member: Failed to add class member : Component C303 10 uF
+Add Class Member: Failed to add class member : Component C? 0.1uF
+Add Class Member: Failed to add class member : Component C? 0.1uF
+Add Class Member: Failed to add class member : Component C? 4.7 uF
+Add Class Member: Failed to add class member : Component C? 0.1uF
+Add Class Member: Failed to add class member : Component C? 0.1uF
+Add Class Member: Failed to add class member : Component C? 1uF
+Add Class Member: Failed to add class member : Component C? 0.47uF
+Add Class Member: Failed to add class member : Component C? 1uF
+Add Class Member: Failed to add class member : Component C? 0.1uF
+Add Class Member: Failed to add class member : Component C? 4.7 uF
+Add Class Member: Failed to add class member : Component C? 10uF
+Add Class Member: Failed to add class member : Component FB? 330R
+Added Member To Class: ClassName=MCU_test Member=Component J? SWD Dubugging Interface
+Add Class Member: Failed to add class member : Component R300 0O
+Add Class Member: Failed to add class member : Component R301 100O
+Add Class Member: Failed to add class member : Component R302 0O
+Add Class Member: Failed to add class member : Component R303 100O
+Added Member To Class: ClassName=GPS_test Member=Component U300 L96-M33
+Add Class Member: Failed to add class member : Component U500 STM32L071KBU6

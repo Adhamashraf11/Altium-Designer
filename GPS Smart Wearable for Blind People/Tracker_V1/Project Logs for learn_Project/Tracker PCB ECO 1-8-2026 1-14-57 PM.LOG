@@ -1,0 +1,456 @@
+Removed Member From Class: ClassName=MCU_test Member=U?
+Removed Member From Class: ClassName=Power_test Member=U?
+Change Footprint: Footprint Not Found FP-BLM18-0_15-t0_8-IPC_B
+Change Component Designator: OldDesignator=U? NewDesignator=U500
+Add component: Footprint Not Found BAT-2
+Added Component: Designator=C200(CAP_0805)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C201(CAP_0805)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C202(CAP_0603)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C203(C0402 - duplicate)
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET - Electronic Component"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0603C104K8RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C00062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-1095-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C204(C0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET - Electronic Component"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0603C104K8RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C00062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-1095-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C205(C0402 - duplicate)
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET - Electronic Component"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0603C104K8RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C00062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-1095-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C206(C0402 - duplicate)
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET - Electronic Component"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0603C104K8RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C00062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-1095-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C207(C0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET - Electronic Component"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0603C104K8RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C00062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-1095-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C208(CAP_0603)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C209(CAP_0805)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C210(CAP_0805)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C211(CAP_0805)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C212(CAP_0603)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C213(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C214(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C215(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C216(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C217(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found LED-0603-R
+Added Component: Designator=D201(ONSC-SOD-123FL-2-498_V)
+Added Component: Designator=D202(LED_0402_RED)
+Added Component: Designator=D203(LED_0402_GREEN)
+Added Component: Designator=J200(JUMPER-3-NC)
+Add component (AddParameter): Name = "Value"; Value = "JUMPER-3-PAD"; VariantName = "[No Variations]"
+Added Component: Designator=J201(JUMPER-3-NC)
+Add component (AddParameter): Name = "Value"; Value = "JUMPER-3-PAD"; VariantName = "[No Variations]"
+Added Component: Designator=J202(USB4105-GF-A-060)
+Add component (AddParameter): Name = "Distributor Link"; Value = "https://eu.mouser.com/ProductDetail/GCT/USB4105-GF-A-060?qs=QNEnbhJQKvY2mocwNJzgfA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "USB4105-GF-A-060"; VariantName = "[No Variations]"
+Added Component: Designator=L200(FP-LPS3314-MFG)
+Added Component: Designator=L201(FP-XFL4020-MFG)
+Added Component: Designator=R200(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R201(R0402)
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0715RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R00007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-15.0HRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2M37"; VariantName = "[No Variations]"
+Added Component: Designator=R202(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R203(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R204(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R205(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R206(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R207(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R208(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R209(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R210(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R211(FP-NTCG10-MFG)
+Added Component: Designator=R212(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R213(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R214(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=RT200(6-0805_N)
+Add component (AddParameter): Name = "Code_IPC"; Value = "RESC2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor 0805 Case Size"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "6-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Mar-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U200(DSS0012A_V)
+Added Component: Designator=U201(FP-RGT0016C-IPC_B)
+Added Component: Designator=UU200(FP-RNM0015A-MFG)
+Add Pin To Net: Unknown Pin: Pin BT200-2
+Added Pin To Net: NetName=MCU_SWO Pin=C200-1
+Added Pin To Net: NetName=MCU_SWO Pin=C201-1
+Added Pin To Net: NetName=MCU_SWO Pin=C202-1
+Added Pin To Net: NetName=MCU_SWO Pin=C203-2
+Added Pin To Net: NetName=MCU_SWO Pin=C204-2
+Added Pin To Net: NetName=VDD Pin=C205-1
+Added Pin To Net: NetName=MCU_SWO Pin=C205-2
+Added Pin To Net: NetName=VDD Pin=C206-1
+Added Pin To Net: NetName=MCU_SWO Pin=C206-2
+Added Pin To Net: NetName=VDD Pin=C207-1
+Added Pin To Net: NetName=MCU_SWO Pin=C207-2
+Added Pin To Net: NetName=MCU_SWO Pin=C208-1
+Added Pin To Net: NetName=MCU_SWO Pin=C209-1
+Added Pin To Net: NetName=MCU_SWO Pin=C210-1
+Added Pin To Net: NetName=MCU_SWO Pin=C211-1
+Added Pin To Net: NetName=MCU_SWO Pin=C212-1
+Added Pin To Net: NetName=MCU_SWO Pin=C213-1
+Added Pin To Net: NetName=MCU_SWO Pin=C214-1
+Added Pin To Net: NetName=MCU_SWO Pin=C215-1
+Added Pin To Net: NetName=MCU_SWO Pin=C216-2
+Added Pin To Net: NetName=MCU_SWO Pin=C217-2
+Add Pin To Net: Unknown Pin: Pin D200-K
+Add Pin To Net: Unknown Pin: Pin D201-2
+Added Pin To Net: NetName=MCU_SWO Pin=J200-3
+Added Pin To Net: NetName=MCU_SWO Pin=J201-3
+Added Pin To Net: NetName=MCU_SWO Pin=J202-A1B12
+Added Pin To Net: NetName=MCU_SWO Pin=J202-B1A12
+Added Pin To Net: NetName=MCU_SWO Pin=J202-SH
+Added Pin To Net: NetName=MCU_SWO Pin=J202-SH
+Added Pin To Net: NetName=MCU_SWO Pin=J202-SH
+Added Pin To Net: NetName=MCU_SWO Pin=J202-SH
+Add Pin To Net: Unknown Pin: Pin L200-2
+Added Pin To Net: NetName=VDD Pin=R200-2
+Added Pin To Net: NetName=VDD Pin=R201-1
+Added Pin To Net: NetName=MCU_SWO Pin=R204-1
+Added Pin To Net: NetName=MCU_SWO Pin=R207-1
+Added Pin To Net: NetName=MCU_SWO Pin=R209-1
+Added Pin To Net: NetName=MCU_SWO Pin=R210-2
+Add Pin To Net: Unknown Pin: Pin R211-1
+Added Pin To Net: NetName=MCU_SWO Pin=R212-1
+Added Pin To Net: NetName=MCU_SWO Pin=R213-1
+Added Pin To Net: NetName=MCU_SWO Pin=R214-1
+Added Pin To Net: NetName=MCU_SWO Pin=RT200-2
+Add Pin To Net: Unknown Pin: Pin U200-3
+Add Pin To Net: Unknown Pin: Pin U200-5
+Add Pin To Net: Unknown Pin: Pin U200-6
+Add Pin To Net: Unknown Pin: Pin U200-13
+Add Pin To Net: Unknown Pin: Pin U201-4
+Add Pin To Net: Unknown Pin: Pin U201-6
+Add Pin To Net: Unknown Pin: Pin U201-8
+Add Pin To Net: Unknown Pin: Pin U201-14
+Add Pin To Net: Unknown Pin: Pin U201-17
+Add Pin To Net: Unknown Pin: Pin UU200-4
+Add Pin To Net: Unknown Pin: Pin UU200-10
+Add Pin To Net: Unknown Pin: Pin UU200-15
+Added Net: Name=NetBT200_1
+Added Pin To Net: NetName=NetC212_2 Pin=C212-2
+Added Net: Name=NetC212_2
+Added Pin To Net: NetName=NetC217_1 Pin=C217-1
+Added Net: Name=NetC217_1
+Added Pin To Net: NetName=NetD200_1 Pin=R201-2
+Added Net: Name=NetD200_1
+Added Pin To Net: NetName=NetD202_A Pin=D202-A
+Added Pin To Net: NetName=NetD202_A Pin=R206-1
+Added Net: Name=NetD202_A
+Added Pin To Net: NetName=NetD202_K Pin=D202-K
+Added Net: Name=NetD202_K
+Added Pin To Net: NetName=NetD203_A Pin=D203-A
+Added Pin To Net: NetName=NetD203_A Pin=R208-1
+Added Net: Name=NetD203_A
+Added Pin To Net: NetName=NetD203_K Pin=D203-K
+Added Net: Name=NetD203_K
+Added Pin To Net: NetName=NetJ200_2 Pin=J200-2
+Added Net: Name=NetJ200_2
+Added Pin To Net: NetName=NetJ201_2 Pin=J201-2
+Added Net: Name=NetJ201_2
+Added Net: Name=NetL200_1
+Added Net: Name=NetL201_1
+Added Net: Name=NetL201_2
+Added Pin To Net: NetName=NetR200_1 Pin=R200-1
+Added Net: Name=NetR200_1
+Added Pin To Net: NetName=NetR202_1 Pin=R202-1
+Added Pin To Net: NetName=NetR202_1 Pin=R204-2
+Added Net: Name=NetR202_1
+Added Pin To Net: NetName=NetR203_2 Pin=R203-2
+Added Net: Name=NetR203_2
+Added Pin To Net: NetName=NetR205_2 Pin=R205-2
+Added Net: Name=NetR205_2
+Added Pin To Net: NetName=NetR207_2 Pin=R207-2
+Added Net: Name=NetR207_2
+Added Pin To Net: NetName=NetR209_2 Pin=R209-2
+Added Net: Name=NetR209_2
+Added Pin To Net: NetName=NetR210_1 Pin=R210-1
+Added Net: Name=NetR210_1
+Added Pin To Net: NetName=NetR211_2 Pin=RT200-1
+Added Net: Name=NetR211_2
+Added Pin To Net: NetName=NetR214_2 Pin=R214-2
+Added Net: Name=NetR214_2
+Added Pin To Net: NetName=NetU200_4 Pin=U500-29
+Added Net: Name=NetU200_4
+Added Pin To Net: NetName=PWR_SYS Pin=C200-2
+Added Pin To Net: NetName=PWR_SYS Pin=C201-2
+Added Pin To Net: NetName=PWR_SYS Pin=C202-2
+Added Pin To Net: NetName=PWR_SYS Pin=C203-1
+Added Pin To Net: NetName=PWR_SYS Pin=C204-1
+Added Pin To Net: NetName=PWR_SYS Pin=C216-1
+Added Pin To Net: NetName=PWR_SYS Pin=J200-1
+Added Pin To Net: NetName=PWR_SYS Pin=J201-1
+Added Pin To Net: NetName=PWR_SYS Pin=R205-1
+Added Pin To Net: NetName=PWR_SYS Pin=R206-2
+Added Pin To Net: NetName=PWR_SYS Pin=R208-2
+Added Net: Name=PWR_SYS
+Added Pin To Net: NetName=USB_CC1 Pin=J202-A5
+Added Pin To Net: NetName=USB_CC1 Pin=R213-2
+Added Net: Name=USB_CC1
+Added Pin To Net: NetName=USB_CC2 Pin=J202-B5
+Added Pin To Net: NetName=USB_CC2 Pin=R212-2
+Added Net: Name=USB_CC2
+Added Pin To Net: NetName=USB_D_N Pin=J202-A7
+Added Pin To Net: NetName=USB_D_N Pin=J202-B7
+Added Net: Name=USB_D_N
+Added Pin To Net: NetName=USB_D_P Pin=J202-A6
+Added Pin To Net: NetName=USB_D_P Pin=J202-B6
+Added Net: Name=USB_D_P
+Added Pin To Net: NetName=V_GSM Pin=C208-2
+Added Pin To Net: NetName=V_GSM Pin=C209-2
+Added Pin To Net: NetName=V_GSM Pin=C210-2
+Added Pin To Net: NetName=V_GSM Pin=C211-2
+Added Pin To Net: NetName=V_GSM Pin=R202-2
+Added Pin To Net: NetName=V_GSM Pin=R203-1
+Added Net: Name=V_GSM
+Added Pin To Net: NetName=VBUS Pin=C213-2
+Added Pin To Net: NetName=VBUS Pin=C214-2
+Added Pin To Net: NetName=VBUS Pin=C215-2
+Added Pin To Net: NetName=VBUS Pin=J202-A4B9
+Added Pin To Net: NetName=VBUS Pin=J202-B4A9
+Added Net: Name=VBUS
+Added Differential Pair: Name=USB_D
+Add Class Member: Failed to add class member : Component BT200 ER21102MR-145
+Added Member To Class: ClassName=Power_test Member=Component C200 22uF
+Added Member To Class: ClassName=Power_test Member=Component C201 22uF
+Added Member To Class: ClassName=Power_test Member=Component C202 10uf
+Added Member To Class: ClassName=Power_test Member=Component C203 CAP
+Added Member To Class: ClassName=Power_test Member=Component C204 0.1uf
+Added Member To Class: ClassName=Power_test Member=Component C205 CAP
+Added Member To Class: ClassName=Power_test Member=Component C206 CAP
+Added Member To Class: ClassName=Power_test Member=Component C207 0.1uf
+Added Member To Class: ClassName=Power_test Member=Component C208 10uf
+Added Member To Class: ClassName=Power_test Member=Component C209 22uF
+Added Member To Class: ClassName=Power_test Member=Component C210 22uF
+Added Member To Class: ClassName=Power_test Member=Component C211 22uF
+Added Member To Class: ClassName=Power_test Member=Component C212 100nF
+Added Member To Class: ClassName=Power_test Member=Component C213 100nF
+Added Member To Class: ClassName=Power_test Member=Component C214 10uF
+Added Member To Class: ClassName=Power_test Member=Component C215 1uF
+Added Member To Class: ClassName=Power_test Member=Component C216 4.7uf
+Added Member To Class: ClassName=Power_test Member=Component C217 4.7uf
+Add Class Member: Failed to add class member : Component D200 LED
+Add Class Member: Failed to add class member : Component D201 SZSMF6.0AT1G
+Added Member To Class: ClassName=Power_test Member=Component D202 RED
+Added Member To Class: ClassName=Power_test Member=Component D203 GREEN
+Added Member To Class: ClassName=Power_test Member=Component J200 JUMPER-3-PAD
+Added Member To Class: ClassName=Power_test Member=Component J201 JUMPER-3-PAD
+Added Member To Class: ClassName=Power_test Member=Component J202 USB4105-GF-A-060
+Add Class Member: Failed to add class member : Component L200 2.2uf
+Add Class Member: Failed to add class member : Component L201 1.5uF
+Added Member To Class: ClassName=Power_test Member=Component R200 47K
+Added Member To Class: ClassName=Power_test Member=Component R201 1K
+Added Member To Class: ClassName=Power_test Member=Component R202 750K
+Added Member To Class: ClassName=Power_test Member=Component R203 100K
+Added Member To Class: ClassName=Power_test Member=Component R204 200K
+Added Member To Class: ClassName=Power_test Member=Component R205 10K
+Added Member To Class: ClassName=Power_test Member=Component R206 1K
+Added Member To Class: ClassName=Power_test Member=Component R207 1.18K
+Added Member To Class: ClassName=Power_test Member=Component R208 1K
+Added Member To Class: ClassName=Power_test Member=Component R209 1.13K
+Added Member To Class: ClassName=Power_test Member=Component R210 46.8k?
+Add Class Member: Failed to add class member : Component R211 10KNTC
+Added Member To Class: ClassName=Power_test Member=Component R212 5K1
+Added Member To Class: ClassName=Power_test Member=Component R213 5K1
+Added Member To Class: ClassName=Power_test Member=Component R214 10ohm
+Added Member To Class: ClassName=Power_test Member=Component RT200 Res Thermal
+Add Class Member: Failed to add class member : Component U200 TPS62740DSST
+Add Class Member: Failed to add class member : Component U201 BQ24074RGTR
+Added Member To Class: ClassName=MCU_test Member=Component U500 STM32L071KBU6
+Add Class Member: Failed to add class member : Component UU200 TPS63070RNMR
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8
+Added Class: Name=USB

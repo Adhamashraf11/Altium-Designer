@@ -1,0 +1,38 @@
+Added Component: Designator=BT200(BAT-2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Battery; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "BAT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=BT201(BAT-2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Battery; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "BAT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D201(ONSC-SOD-123FL-2-498_V)
+Added Component: Designator=L200(FP-LPS3314-MFG)
+Added Component: Designator=L201(FP-XFL4020-MFG)
+Added Component: Designator=R211(FP-NTCG10-MFG)
+Added Pin To Net: NetName=NetBT200_1 Pin=BT200-1
+Added Pin To Net: NetName=MCU_SWO Pin=BT200-2
+Added Pin To Net: NetName=NetBT200_1 Pin=BT201-1
+Added Pin To Net: NetName=MCU_SWO Pin=BT201-2
+Added Pin To Net: NetName=NetBT200_1 Pin=C217-1
+Add Pin To Net: Unknown Pin: Pin D201-1
+Add Pin To Net: Unknown Pin: Pin D201-2
+Add Pin To Net: Unknown Pin: Pin L200-1
+Add Pin To Net: Unknown Pin: Pin L200-2
+Add Pin To Net: Unknown Pin: Pin L201-1
+Add Pin To Net: Unknown Pin: Pin L201-2
+Add Pin To Net: Unknown Pin: Pin R211-1
+Add Pin To Net: Unknown Pin: Pin R211-2
+Added Pin To Net: NetName=NetBT200_1 Pin=U202-3
+Added Member To Class: ClassName=Power_test Member=Component BT200 Battery
+Added Member To Class: ClassName=Power_test Member=Component BT201 Battery
+Add Class Member: Failed to add class member : Component D201 SZSMF6.0AT1G
+Add Class Member: Failed to add class member : Component L200 2.2uf
+Add Class Member: Failed to add class member : Component L201 1.5uF
+Add Class Member: Failed to add class member : Component R211 10KNTC

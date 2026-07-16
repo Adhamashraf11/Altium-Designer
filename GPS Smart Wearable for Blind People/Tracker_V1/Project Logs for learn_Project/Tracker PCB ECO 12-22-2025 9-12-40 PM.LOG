@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=R300 Old Footprint=FP-AF0402-IPC_A New Footprint=FP-AF0402-IPC_A
+Change Component Footprint: Designator=R302 Old Footprint=FP-AF0402-IPC_A New Footprint=FP-AF0402-IPC_A
+Change Component Designator: OldDesignator=U? NewDesignator=U500
+Added Component: Designator=Y500(FP-NX3215SA-MFG)
+Add Pin To Net: Unknown Pin: Pin Y500-1
+Add Pin To Net: Unknown Pin: Pin Y500-2
+Add Class Member: Failed to add class member : Component Y500 NX3215SA-32.768K-STD-MUA-14

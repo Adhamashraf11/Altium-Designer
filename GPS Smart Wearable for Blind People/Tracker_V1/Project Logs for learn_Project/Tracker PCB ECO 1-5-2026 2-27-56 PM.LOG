@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U200
+Change Component Designator: OldDesignator=U? NewDesignator=U201
+Change Component Designator: OldDesignator=U? NewDesignator=U202
+Change Component Designator: OldDesignator=U? NewDesignator=UU202
+Added Member To Class: ClassName=Power_test Member=Component R? 5K1
+Added Member To Class: ClassName=Power_test Member=Component R? 5K1
+Added Member To Class: ClassName=Power_test Member=Component U200 BQ24074RGTR
+Added Member To Class: ClassName=Power_test Member=Component U201 TPS62740DSST
+Added Member To Class: ClassName=Power_test Member=Component U202 MP3429GL-Z
+Added Member To Class: ClassName=MCU_test Member=Component U? STM32L071KBU6
+Added Member To Class: ClassName=Power_test Member=Component UU202 TPS63070RNMR

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GPS_PPS Pin=U500-21
+Removed Pin From Net: NetName=GPS_FON Pin=U500-22
+Added Pin To Net: NetName=GPS_PPS Pin=U500-6
+Added Pin To Net: NetName=GPS_FON Pin=U500-7
+Added Pin To Net: NetName=USB_D_N Pin=U500-21
+Added Pin To Net: NetName=USB_D_P Pin=U500-22

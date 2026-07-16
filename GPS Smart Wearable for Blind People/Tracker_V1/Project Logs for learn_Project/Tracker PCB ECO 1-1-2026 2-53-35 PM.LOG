@@ -1,0 +1,17 @@
+Added Component: Designator=U?(XCVR_BG95M1LA-64-SGNS)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BG95M1LA-64-SGNS/Quectel/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Quectel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BG95M1LA-64-SGNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Custom Quectel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BG95M1LA-64-SGNS/Quectel/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(MODULE_SIM7070G)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SIM7070G/SIMCom/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "simcom wireless solutions limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SIM7070G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SIM7070G/SIMCom/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=GSM_test Member=Component GSM Sim800L
+Added Member To Class: ClassName=Power_test Member=Component U? BG95M1LA-64-SGNS
+Added Member To Class: ClassName=Power_test Member=Component U? SIM7070G

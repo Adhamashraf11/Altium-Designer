@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=PWR_SYS Pin=U200-1
+Removed Pin From Net: NetName=SW_LDO Pin=U200-2
+Removed Pin From Net: NetName=GND Pin=U200-3
+Removed Pin From Net: NetName=VDD Pin=U200-5
+Removed Pin From Net: NetName=VGPS Pin=U200-6
+Removed Pin From Net: NetName=NetR200_1 Pin=U200-7
+Removed Pin From Net: NetName=PWR_SYS Pin=U200-8
+Removed Pin From Net: NetName=PWR_SYS Pin=U200-9
+Removed Pin From Net: NetName=NetJ201_2 Pin=U200-10
+Removed Pin From Net: NetName=NetJ200_2 Pin=U200-11
+Removed Pin From Net: NetName=PWR_SYS Pin=U200-12
+Removed Pin From Net: NetName=GND Pin=U200-13
+Removed Member From Class: ClassName=Power_test Member=U200
+Added Component: Designator=U?(DSS0012A_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/tps62740.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds336b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLVSB02B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "12-Pin Plastic Small Outline, Body 3 x 2 mm, Pitch 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DSS0012A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4209244/C, 07/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TPS62740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VIN Max"; Value = "5.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VIN Min"; Value = "2.2 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VOUT Max"; Value = "3.3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VOUT Min"; Value = "1.8 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PWR_SYS Pin=U?-1
+Added Pin To Net: NetName=SW_LDO Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=VDD Pin=U?-5
+Added Pin To Net: NetName=VGPS Pin=U?-6
+Added Pin To Net: NetName=NetR200_1 Pin=U?-7
+Added Pin To Net: NetName=PWR_SYS Pin=U?-8
+Added Pin To Net: NetName=PWR_SYS Pin=U?-9
+Added Pin To Net: NetName=NetJ201_2 Pin=U?-10
+Added Pin To Net: NetName=NetJ200_2 Pin=U?-11
+Added Pin To Net: NetName=PWR_SYS Pin=U?-12
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Pin To Net: NetName=NetU500_29 Pin=U500-29
+Added Pin To Net: NetName=NetU500_29 Pin=U?-4
+Added Net: Name=NetU500_29
+Added Member To Class: ClassName=Power_test Member=Component U? TPS62740DSST

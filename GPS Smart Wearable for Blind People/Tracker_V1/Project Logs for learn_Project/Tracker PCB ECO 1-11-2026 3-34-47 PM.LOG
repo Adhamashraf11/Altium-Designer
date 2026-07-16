@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=GPS_FIX Pin=U300-2
+Added Pin To Net: NetName=GPS_INT Pin=U300-7
+Added Pin To Net: NetName=GPS_JAM Pin=U300-20
+Added Pin To Net: NetName=GPS_RST Pin=U300-23
+Added Pin To Net: NetName=GPS_GEO Pin=U300-24
+Added Pin To Net: NetName=GPS_FON Pin=U300-28
+Added Pin To Net: NetName=GPS_PPS Pin=U300-29
+Add Net: Net with name "GSM_NET" already exists
+Add Net: Net with name "GSM_RING" already exists
+Add Net: Net with name "GSM_RST" already exists

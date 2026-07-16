@@ -1,0 +1,15 @@
+Added Component: Designator=GSM(Sim800L)
+Added Pin To Net: NetName=GPS_RXD Pin=GSM-4
+Added Pin To Net: NetName=GPS_TXD Pin=GSM-5
+Added Pin To Net: NetName=MCU_SWO Pin=GSM-6
+Added Pin To Net: NetName=GSM_DTR Pin=GSM-8
+Added Net: Name=GSM_DTR
+Added Pin To Net: NetName=GSM_NET Pin=GSM-1
+Added Net: Name=GSM_NET
+Added Pin To Net: NetName=GSM_RING Pin=GSM-7
+Added Net: Name=GSM_RING
+Added Pin To Net: NetName=GSM_RST Pin=GSM-3
+Added Net: Name=GSM_RST
+Added Pin To Net: NetName=VCCBuck Pin=GSM-2
+Added Net: Name=VCCBuck
+Added Rule: Name=Schematic Supply Nets_5

@@ -1,0 +1,138 @@
+Change Footprint: Footprint Not Found FP-BLM18-0_15-t0_8-IPC_B
+Change Footprint: Footprint Not Found FP-UFQFPN32-A0B8-IPC_B
+Add component: Footprint Not Found BAT-2
+Add component: Footprint Not Found LED-0603-R
+Added Component: Designator=D201(ONSC-SOD-123FL-2-498_V)
+Added Component: Designator=L200(FP-LPS3314-MFG)
+Added Component: Designator=L201(FP-XFL4020-MFG)
+Added Component: Designator=R211(FP-NTCG10-MFG)
+Added Component: Designator=U200(DSS0012A_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/tps62740.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds336b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLVSB02B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "12-Pin Plastic Small Outline, Body 3 x 2 mm, Pitch 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DSS0012A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4209244/C, 07/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TPS62740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VIN Max"; Value = "5.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VIN Min"; Value = "2.2 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VOUT Max"; Value = "3.3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VOUT Min"; Value = "1.8 V"; VariantName = "[No Variations]"
+Added Component: Designator=U201(FP-RNM0015A-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "VQFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Voltage"; Value = "9V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Output Voltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Adjustable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "50uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Frequency"; Value = "2.4MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectifier"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "Buck-Boost"; VariantName = "[No Variations]"
+Added Component: Designator=U202(FP-RGT0016C-MFG)
+Add component (AddParameter): Name = "Battery Chemistry"; Value = "LITHIUM-ION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Battery Pack Voltage"; Value = "4.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "VQFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fault Protection"; Value = "Over Voltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Charge Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "10.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "4.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Cells"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "4.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000808oz"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin BT200-1
+Add Pin To Net: Unknown Pin: Pin BT200-2
+Add Pin To Net: Unknown Pin: Pin D200-A
+Add Pin To Net: Unknown Pin: Pin D200-K
+Add Pin To Net: Unknown Pin: Pin D201-1
+Add Pin To Net: Unknown Pin: Pin D201-2
+Add Pin To Net: Unknown Pin: Pin L200-1
+Add Pin To Net: Unknown Pin: Pin L200-2
+Add Pin To Net: Unknown Pin: Pin L201-1
+Add Pin To Net: Unknown Pin: Pin L201-2
+Add Pin To Net: Unknown Pin: Pin R211-1
+Add Pin To Net: Unknown Pin: Pin R211-2
+Added Pin To Net: NetName=PWR_SYS Pin=U200-1
+Added Pin To Net: NetName=NetL200_1 Pin=U200-2
+Added Pin To Net: NetName=MCU_SWO Pin=U200-3
+Added Pin To Net: NetName=NetU200_4 Pin=U200-4
+Added Pin To Net: NetName=VDD Pin=U200-5
+Added Pin To Net: NetName=VGPS Pin=U200-6
+Added Pin To Net: NetName=NetR200_1 Pin=U200-7
+Added Pin To Net: NetName=PWR_SYS Pin=U200-8
+Added Pin To Net: NetName=PWR_SYS Pin=U200-9
+Added Pin To Net: NetName=NetJ201_2 Pin=U200-10
+Added Pin To Net: NetName=NetJ200_2 Pin=U200-11
+Added Pin To Net: NetName=PWR_SYS Pin=U200-12
+Added Pin To Net: NetName=MCU_SWO Pin=U200-13
+Added Pin To Net: NetName=NetR205_2 Pin=U201-1
+Added Pin To Net: NetName=NetR203_2 Pin=U201-2
+Added Pin To Net: NetName=NetC212_2 Pin=U201-3
+Added Pin To Net: NetName=MCU_SWO Pin=U201-4
+Added Pin To Net: NetName=NetR202_1 Pin=U201-5
+Added Pin To Net: NetName=NetR214_2 Pin=U201-6
+Added Pin To Net: NetName=V_GSM Pin=U201-7-8
+Added Pin To Net: NetName=NetL201_2 Pin=U201-9
+Added Pin To Net: NetName=MCU_SWO Pin=U201-10
+Added Pin To Net: NetName=NetL201_1 Pin=U201-11
+Added Pin To Net: NetName=PWR_SYS Pin=U201-12-13
+Added Pin To Net: NetName=NetR205_2 Pin=U201-14
+Added Pin To Net: NetName=MCU_SWO Pin=U201-15
+Added Pin To Net: NetName=NetR211_2 Pin=U202-1
+Added Pin To Net: NetName=NetBT200_1 Pin=U202-2
+Added Pin To Net: NetName=NetC217_1 Pin=U202-3
+Added Pin To Net: NetName=MCU_SWO Pin=U202-4
+Added Pin To Net: NetName=PWR_SYS Pin=U202-5
+Added Pin To Net: NetName=MCU_SWO Pin=U202-6
+Added Pin To Net: NetName=NetD203_K Pin=U202-7
+Added Pin To Net: NetName=MCU_SWO Pin=U202-8
+Added Pin To Net: NetName=NetD202_K Pin=U202-9
+Added Pin To Net: NetName=PWR_SYS Pin=U202-10
+Added Pin To Net: NetName=PWR_SYS Pin=U202-11
+Added Pin To Net: NetName=NetR207_2 Pin=U202-12
+Added Pin To Net: NetName=VBUS Pin=U202-13
+Added Pin To Net: NetName=MCU_SWO Pin=U202-14
+Added Pin To Net: NetName=NetR210_1 Pin=U202-15
+Added Pin To Net: NetName=NetR209_2 Pin=U202-16
+Added Pin To Net: NetName=MCU_SWO Pin=U202-17
+Add Class Member: Failed to add class member : Component BT200 ER21102MR-145
+Add Class Member: Failed to add class member : Component D200 LED
+Add Class Member: Failed to add class member : Component D201 SZSMF6.0AT1G
+Add Class Member: Failed to add class member : Component L200 2.2uf
+Add Class Member: Failed to add class member : Component L201 1.5uF
+Add Class Member: Failed to add class member : Component R211 10KNTC
+Added Member To Class: ClassName=Power_test Member=Component U200 TPS62740DSST
+Added Member To Class: ClassName=Power_test Member=Component U201 TPS63070RNMR
+Added Member To Class: ClassName=Power_test Member=Component U202 BQ24074RGTR
