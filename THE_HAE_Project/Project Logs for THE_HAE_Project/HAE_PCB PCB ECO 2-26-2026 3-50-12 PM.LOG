@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=ESP_USB_D+ New Net Name=NetJ100_A6
+Change Net Name : Old Net Name=ESP_USB_D- New Net Name=NetJ100_A7
+Add Differential Pair: Number of nets in differential pair NetJ100_A6 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ100_A7 is 1 instead of 2

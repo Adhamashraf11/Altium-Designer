@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ESP_TFT_DC Pin=MD200-21
+Removed Pin From Net: NetName=ESP_TFT_RST Pin=MD200-22
+Added Pin To Net: NetName=ESP_TFT_RST Pin=MD200-21
+Added Pin To Net: NetName=ESP_TFT_DC Pin=MD200-22
